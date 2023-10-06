@@ -1,0 +1,12 @@
+Actually, the overwhelming majority of Macs had/has fans
+
+The only Macs and Apple machines to not have fans either didn’t need them or were specifically designed for passive airflow
+
+The only Macs and Apple machines that I can think of that don’t have fans are…
+
+Apple III
+Macintosh G4 Cube
+(some) MacBooks
+These particular Macs that didn’t have fans had many known issues, the Apple III had an issue with memory chips becoming unseated due to heat, the G4 Cube had thermal shutdown issues, and fanless MacBooks have thermal throttling, meaning once the MacBook gets warm, performance drops
+
+Most Macs had/have thermally controlled fans, that would only ramp up in speed when a certain temperature was reached, in situations when the CPU wasn’t heavily used, the fans didn’t spin at all
